@@ -13,6 +13,7 @@ bla bla bla
 ### Przykładowe przedrostki z układu SI:
 | Symbol | Mnożnik     | Nazwa |
 | ------ | ----------- | ----- |
+| µ      | 0.000001    | mikro |
 | m      | 0,001       | mili  |
 | c      | 0,01        | centy |
 | d      | 0,1         | decy  |
