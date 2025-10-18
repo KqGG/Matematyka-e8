@@ -16,7 +16,8 @@ dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 Przedrostków używasz w matematyce bardzo często i nawet możesz nie zdawać sobie z tego sprawy.<br>
 Jeśli mamy daną jednostke (np. metr) i potrzebujemy za pomocą niej pokazać jakąś bardzo małą lub bardzo dużą wartość, możemy wykorzystać do tego właśnie przedrostki.<br>
 Zamiast pisać 0,01 metrów, możemy użyć przedrostka **centy**, aby ułatwić nam zapis (w tym przypadku otrzymamy 1 centymetr).<br>
-Wartości przedrostków są zapisane w [Układzie SI](#wybrane-przedrostki-z-układu-SI:) zamieszczonym poniżej.<br>
+Wartości przedrostków są zapisane w Układzie SI zamieszczonym poniżej.<br>
+[HyperRefrence](#tabela-si)
 Na przykład:
 ```
 1dt (decytona) = 0,1t (tony)
@@ -24,7 +25,7 @@ Na przykład:
 35 000dm (decymetrów) = 3 500 m (metrów) = 3,5 km (kilometra)
 ```
 ### Jednostki podniesione do kwadratu / sześcianu
-Przeliczanie jednostek jest bardzo monotonne i przewidywalne, zwłaszcza kiedy korzystamy z [Układu SI](#wybrane-przedrostki-z-ukadu-SI:).<br>
+Przeliczanie jednostek jest bardzo monotonne i przewidywalne, zwłaszcza kiedy korzystamy z Układu SI.<br>
 Jednakże, inaczej wyglada to z jednostkami podniesonymi do kwadratu lub sześcianu (np. cm², m³).<br>
 Jak już się pewnie domyślasz, przy przeliczaniu podnosimy wartość do odpowiedniej potęgi i dopiero wtedy przeliczamy na jednostkę z innym przedrostkiem, zgodnie z przypisanym mnoznikiem.<br>
 Na przyklad:
@@ -39,7 +40,7 @@ Na przyklad:
 6dm = 0.6m
 ```
 Pamiętaj o tym podczas pracy z np. polami figur.
-### Wybrane przedrostki z Układu SI:
+### <a name="tabela-si"></a>Wybrane przedrostki z Układu SI:
 | Symbol | Mnożnik     | Nazwa |
 | ------ | ----------- | ----- |
 | µ      | 0,000001    | mikro |
