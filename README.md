@@ -2,7 +2,7 @@
 Witaj,
 Ten dokument (Który nie jest jeszcze dokończony) zawiera zdecydowana wiekszość pojęć potrzebnych Ci, aby napisac Egzamin Ósmoklasisty z **Matematyki** na co najmniej <ins>90%</ins>.<br>
 Zakładamy, że <ins>**umiesz dodawać, odejmować, mnożyć i dzielić**</ins> na poziome co najmniej 4 klasy Szkoły Podstawowej.<br>
-Stanowczo odradzamy omijanie pojęć uznanych przez Ciebie za już dobrze rozumiane - wiele bardziej zaawansowanych kwestii umieściliśmy w prostych tematach, <ins>pamiętaj więdz o czytaniu całości</ins>.<br>
+Stanowczo odradzamy omijanie pojęć uznanych przez Ciebie za dobrze już rozumiane - wiele bardziej zaawansowanych kwestii umieściliśmy w prostych tematach, <ins>pamiętaj więdz o czytaniu całości</ins>.<br>
 Pamiętaj, żeby <ins>zrobić troche zadań do każdego zawartego tutaj tematu</ins> aby mieć pewność, że w pełni rozumiesz każdy z nich.<br>
 Powodzenia!
 <br><br><br>//o co tu chodzi, co to zawiera, po co to jest, zawiera fraze: "zakladamy, ze umiesz mnozyc/dzielic/dodawac/odejmowac na poziomie 4 klasy szkoly podstawowej"
