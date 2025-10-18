@@ -13,10 +13,10 @@ dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 ### Co to Jednostka?
 > **Jednostka oznacza standardową miarę wielkości fizycznej (np. metr, gram).**
 ### Przedrostek - wyjaśnienie
-Przedrostków używasz w matematyce bardzo często i nawet możesz nie zdawać sobie z tego sprawy.
-Jeśli mamy daną jednostke (np. metr) i potrzebujemy za pomocą niej pokazać jakąś bardzo małą lub bardzo dużą wartość, możemy wykorzystać do tego właśnie przedrostki.
-Zamiast pisać 0,01 metrów, możemy użyć przedrostka **centy**, aby ułatwić nam zapis (w tym przypadku otrzymamy 1 centymetr).
-Wartości przedrostków są zapisane w -Układzie SI zamieszczonym poniżej.
+Przedrostków używasz w matematyce bardzo często i nawet możesz nie zdawać sobie z tego sprawy.<br>
+Jeśli mamy daną jednostke (np. metr) i potrzebujemy za pomocą niej pokazać jakąś bardzo małą lub bardzo dużą wartość, możemy wykorzystać do tego właśnie przedrostki.<br>
+Zamiast pisać 0,01 metrów, możemy użyć przedrostka **centy**, aby ułatwić nam zapis (w tym przypadku otrzymamy 1 centymetr).<br>
+Wartości przedrostków są zapisane w -Układzie SI zamieszczonym poniżej.<br>
 Na przykład:
 ```
 1dt (decytona) = 0,1t (tony)
@@ -24,9 +24,9 @@ Na przykład:
 35 000dm (decymetrów) = 3 500 m (metrów) = 3,5 km (kilometra)
 ```
 ### Jednostki podniesione do kwadratu / sześcianu
-Przeliczanie jednostek jest bardzo monotonne i przewidywalne, zwłaszcza kiedy korzystamy z -Układu SI.
-Jednakże, inaczej wyglada to z jednostkami podniesonymi do kwadratu lub sześcianu (np. cm², m³).
-Jak już się pewnie domyślasz, przy przeliczaniu podnosimy wartość do odpowiedniej potęgi i dopiero wtedy przeliczamy na jednostkę z innym przedrostkiem, zgodnie z przypisanym mnoznikiem.
+Przeliczanie jednostek jest bardzo monotonne i przewidywalne, zwłaszcza kiedy korzystamy z -Układu SI.<br>
+Jednakże, inaczej wyglada to z jednostkami podniesonymi do kwadratu lub sześcianu (np. cm², m³).<br>
+Jak już się pewnie domyślasz, przy przeliczaniu podnosimy wartość do odpowiedniej potęgi i dopiero wtedy przeliczamy na jednostkę z innym przedrostkiem, zgodnie z przypisanym mnoznikiem.<br>
 Na przyklad:
 ```
 100cm² = 10 000cm = 100m² //100² = 10 000, 10 000 : 100 = 100
