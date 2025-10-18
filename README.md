@@ -16,8 +16,7 @@ dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 Przedrostków używasz w matematyce bardzo często i nawet możesz nie zdawać sobie z tego sprawy.<br>
 Jeśli mamy daną jednostke (np. metr) i potrzebujemy za pomocą niej pokazać jakąś bardzo małą lub bardzo dużą wartość, możemy wykorzystać do tego właśnie przedrostki.<br>
 Zamiast pisać 0,01 metrów, możemy użyć przedrostka **centy**, aby ułatwić nam zapis (w tym przypadku otrzymamy 1 centymetr).<br>
-Wartości przedrostków są zapisane w Układzie SI zamieszczonym poniżej.<br>
-[HyperRefrence](#tabela-si)
+Wartości przedrostków są zapisane w [Układzie SI](#tabela-si) zamieszczonym poniżej.<br>
 Na przykład:
 ```
 1dt (decytona) = 0,1t (tony)
