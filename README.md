@@ -9,6 +9,12 @@ Pamiętaj, żeby <ins>zrobić troche zadań do każdego zawartego tutaj tematu</
 dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 # Index pojęć
 ## Jednostki i przeliczanie
+bla bla bla
+# Przykładowe przedrostki z układu SI:
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 Symbol	Wartość liczbowo	Nazwa / opis<br>
 µ&nbsp;0,000 001<tab>mikro<br>
 m	      0,001	            mili<br>
