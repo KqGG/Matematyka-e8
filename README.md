@@ -8,14 +8,13 @@ Pamiętaj, żeby <ins>zrobić troche zadań do każdego zawartego tutaj tematu</
 # Tips & Tricks
 dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 # Index pojęć
-## przedrostki w układzie SI
-Symbol	Wartość liczbowo	Nazwa / opis
-µ	      0,000 001	        mikro
-m	      0,001	            mili
-c	      0,01	            centi
-d	      0,1	              deci
-1	      brak przedrostka
-da	    10	              deka
-h	      100	              hekto
-k	      1 000	            kilo
-M	      1 000 000	        mega
+## Jednostki i przeliczanie
+Symbol	Wartość liczbowo	Nazwa / opis<br>
+µ<tab>0,000 001<tab>mikro<br>
+m	      0,001	            mili<br>
+c	      0,01	            centi<br>
+d	      0,1	              deci<br>
+da	    10	              deka<br>
+h	      100	              hekto<br>
+k	      1 000	            kilo<br>
+M	      1 000 000	        mega<br>
