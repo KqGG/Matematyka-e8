@@ -10,17 +10,13 @@ dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 # Index pojęć
 ## Jednostki i przeliczanie
 bla bla bla
-# Przykładowe przedrostki z układu SI:
-| Symbol | Mnożnik | Nazwa |
-| ------ | ------- | ----- |
-| m      | 0,001   | mili  |
-| ------ | ------- | ----- |
-Symbol	Wartość liczbowo	Nazwa / opis<br>
-µ&nbsp;0,000 001<tab>mikro<br>
-m	      0,001	            mili<br>
-c	      0,01	            centi<br>
-d	      0,1	              deci<br>
-da	    10	              deka<br>
-h	      100	              hekto<br>
-k	      1 000	            kilo<br>
-M	      1 000 000	        mega<br>
+### Przykładowe przedrostki z układu SI:
+| Symbol | Mnożnik     | Nazwa |
+| ------ | ----------- | ----- |
+| m      | 0,001       | mili  |
+| c      | 0,01        | centy |
+| d      | 0,1         | decy  |
+| da     | 10          | deka  |
+| h      | 100         | hekto |
+| k      | 1 000       | kilo  |
+| M      | 1 000 000   | mega  |
