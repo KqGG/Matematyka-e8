@@ -10,7 +10,7 @@ _Przydatne zagadnienia, które zwiększają produktywność i ułatwiają prace.
 dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 # Index pojęć
 ## Jednostki i przeliczanie
-### Co to Jednostka?
+### Co to jest Jednostka?
 > **Jednostka oznacza standardową miarę wielkości fizycznej (np. metr, gram).**
 ### Przedrostek - wyjaśnienie
 Przedrostków używasz w matematyce bardzo często i nawet możesz nie zdawać sobie z tego sprawy.<br>
@@ -31,10 +31,15 @@ Na przyklad:
 ```
 100cm² = 10 000cm = 100m² //bo 100² = 10 000, a 10 000 : 100 = 100
 20m² = 400m = 0,4km²
-6dm³ = 36dm = 3.6m³
+6dm³ = 216dm = 21.6m³
+
+// dla porównania
+100cm = 1m
+20m = 0,02km
+6dm = 0.6m
 ```
 Pamiętaj o tym podczas pracy z np. polami figur.
-### Wybrane przedrostki z układu SI:
+### Wybrane przedrostki z Układu SI:
 | Symbol | Mnożnik     | Nazwa |
 | ------ | ----------- | ----- |
 | µ      | 0,000001    | mikro |
