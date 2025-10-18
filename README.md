@@ -10,7 +10,7 @@ dzielenie/mnozenie pisemne tutorial, dopelnianie, itp.
 # Index pojęć
 ## Jednostki i przeliczanie
 Symbol	Wartość liczbowo	Nazwa / opis<br>
-µ<tab>0,000 001<tab>mikro<br>
+µ&nbsp;0,000 001<tab>mikro<br>
 m	      0,001	            mili<br>
 c	      0,01	            centi<br>
 d	      0,1	              deci<br>
