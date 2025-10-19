@@ -129,21 +129,21 @@ Trójkąt to figura geometryczna która ma <ins>**3 boki 3 kąty oraz 3 wierzcho
 ### suma kątów w trójkącie
 suma kątów w trójkącie wynosi <ins>**180°**</ins>
 ### Rodzaje trójkątów ze względu na boki
-Równoboczny - wszystkie boki są równe oraz każdy kąt ma 60°
-Równoramienny - Dwa boki są równe oraz Dwa katy mają taką samą wartość w stopniach
-Różnoboczny - Wszystkie boki są różne tak samo z kątami
+Równoboczny - wszystkie boki są równe oraz każdy kąt ma 60°<br>
+Równoramienny - Dwa boki są równe oraz Dwa katy mają taką samą wartość w stopniach<br>
+Różnoboczny - Wszystkie boki są różne tak samo z kątami<br>
 ### Rodzaje trójkątów ze względu na kąty
-Ostrokątny - Wszystkie kąty są mniejsze niż 90° np. 50°, 60°, 70°
-Prostokątny - Ma jeden kąt 90° Dwa pozostałe razem dają 90°
-Rozwartokątny - Ma jeden kąt większy niż 90° Dwa pozostałe są ostre
+Ostrokątny - Wszystkie kąty są mniejsze niż 90° np. 50°, 60°, 70°<br>
+Prostokątny - Ma jeden kąt 90° Dwa pozostałe razem dają 90°<br>
+Rozwartokątny - Ma jeden kąt większy niż 90° Dwa pozostałe są ostre<br>
 ### Ważne pojęcia
-Wysokość – odcinek opuszczony z wierzchołka prostopadle na bok lub jego przedłużenie.
-Środkowa – odcinek łączący wierzchołek z środkiem przeciwległego boku.
+Wysokość – odcinek opuszczony z wierzchołka prostopadle na bok lub jego przedłużenie.<br>
+Środkowa – odcinek łączący wierzchołek z środkiem przeciwległego boku.<br>
 Dwusieczna – odcinek, który dzieli kąt na pół.
 ### Trójkąt 45° 45° 90°
 Utworzyć taki trójkąt można za pomocą przekątnej w kwadracie. Podstawa tego trójkąta (znajduje się przy 2 kątach wynoszących 45°) ma długość <ins>**a√3**</ins> ramiona mają po <ins>**a**</ins> (jest to trójkąt równoramienny ponieważ ma 2 takie same kąty)
 ### Trójkąt 30° 60° 90°
-Wysokość - a√3⁄2 podstawa 1/2a przeciwprostokątna - a
+Wysokość - <ins>**a√3⁄2**</ins> podstawa <ins>**1/2a**</ins> przeciwprostokątna - <ins>**a**</ins>
 ## Działania pisemne
 // TODO: Napisac ten artykul
 ## Średnia arytmetyczna
