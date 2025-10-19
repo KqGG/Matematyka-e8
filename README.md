@@ -111,3 +111,5 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 // TODO: Napisac ten artykul
 ## Liczby rzymskie
 // TODO: Napisac ten artykul
+## Potęgi i pierwiastki
+// TODO: Napisac ten artykul
