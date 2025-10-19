@@ -77,16 +77,16 @@ Zobacz, jak możemy sprawdzić przez jakie cyfry dzieli się liczba <ins>749</in
 ```
 1: wszystkie liczby są podzielne // PODZIELNA
 2: 9 ≠ 0 lub 2 lub 4 lub 6 lub 8 // NIE PODZIELNA
-3: 7 + 4 + 9 = 20 | ~20 : 3~ // NIE PODZIELNA
-4: ~49 : 4~ // NIE PODZIELNA
+3: 7 + 4 + 9 = 20 | 20 nie jest podzielne przez 3 // NIE PODZIELNA
+4: 49 nie dzieli się przez 4 // NIE PODZIELNA
 5: 9 ≠ 0 lub 5 // NIE PODZIELNA
-6: ~749 : 2~ | ~749 : 3~ // NIE PODZIELNA
+6: 749 nie dzieli się ani przez 2, ani przez 3 // NIE PODZIELNA
 7: 749 = 700 + 49 | 49 : 7 | 700 : 7 // PODZIELNA
 8: Jeśli nie jest podzielna przez 2 to także nie jest podzielna przez rzadną inną liczbę parzystą // NIE PODZIELNA
 9: Jeśli nie jest podzielna przez 3 to także nie jest podzielna przez 9 // NIE PODZIELNA
 10: 9 ≠ 0 // NIE PODZIELNA
 ```
-Nie trudno zauważyć, że tym sposobem jest to o wiele szybsze i mniej męczące niż manualne dzielenie tej liczby 10 razy
+Nie trudno zauważyć, że tym sposobem jest to o wiele szybsze i mniej męczące, niż manualne dzielenie tej liczby 10 razy
 ## Liczby ujemne, całkowite, naturalne, parzyste, nieparzyste i pierwsze
 ### Liczby parzyste
 > Liczby parzyste to liczby <ins>podzielne przez 2 bez reszty</ins> (np. 2, 8, 18, 150).
