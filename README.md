@@ -57,7 +57,7 @@ Pamiętaj o tym podczas pracy z np. polami figur.
 > NWD to inaczej **Najmniejszy wspólny dzielnik**
 // TODO: Napisac ten artykul
 ## <a name="t-div"></a>Cechy podzielności liczb
-*Nie jest to temat potrzebny na egzamin, jednakże bardzo usprawnia prace*
+*Nie jest to temat potrzebny na egzamin, jednakże bardzo usprawnia prace*<br>
 _**Uwaga:** w tym temacie będziemy mówić tylko o [liczbach całkowitych](#REFRENCE)_
 ### Co to są Cechy Podzielności?
 > Cechy podzielności to zbiór zasad, dzięki którym możemy szybko sprawdzić przez jakie cyfry dzieli się jakaś duża liczba.
@@ -99,7 +99,7 @@ Nie trudno zauważyć, że tym sposobem jest to o wiele szybsze i mniej męcząc
 ### Liczby naturalne
 > Liczby naturalne to <ins>liczby całkowite</ins>, które są <ins>większe od 0</ins> (np. 1, 2, 5, 17, 1024).
 ### Liczby pierwsze
-> Liczby pierwsze to liczby, które są <ins>mają tylko 2 dzielniki</ins> (dzielą się przez 1 i samą siebie, np. 2, 3, 5, 7, 11, 17, 71).
+> Liczby pierwsze to liczby, które są <ins>mają tylko 2 dzielniki</ins> (dzielą się przez 1 i samą siebie, np. 2, 3, 5, 7, 11, 17, 71).<br>
 _**Uwaga:** liczby 1 i 2 <ins>nie należą do liczb pierwszych</ins> (0 nie dzieli się przez nic, a 1 dzieli się tylko przez 1)_
 ## Wyrażenia algebraiczne
 // TODO: Napisac ten artykul
