@@ -102,7 +102,7 @@ Liczby nieparzyste to liczby całkowite, <ins>nie podzielne przez 2</ins> (np. 1
 Liczby ujemne to liczby, które są <ins>mniejsze od 0</ins> i oznaczamy je wstawiając znak '-' przed daną wartością (np. -2, -17, -361238123)
 ### Liczby pierwsze
 Liczby pierwsze to liczby, które są <ins>mają tylko 2 dzielniki</ins> (dzielą się przez 1 i samą siebie, np. 2, 3, 5, 7, 11, 17, 71).<br>
-_**Uwaga:** liczby 1 i 2 <ins>nie należą do liczb pierwszych</ins> (0 nie dzieli się przez nic, a 1 dzieli się tylko przez 1)_
+_**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzieli się przez nic, a 1 dzieli się tylko przez 1)_
 ## Wyrażenia algebraiczne
 // TODO: Napisac ten artykul
 ## Równania
