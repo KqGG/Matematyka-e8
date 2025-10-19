@@ -60,7 +60,7 @@ Pamiętaj o tym podczas pracy z np. polami figur.
 *Nie jest to temat potrzebny na egzamin, jednakże bardzo usprawnia prace*<br>
 _**Uwaga:** w tym temacie będziemy mówić tylko o [liczbach całkowitych](#REFRENCE)_
 ### Co to są Cechy Podzielności?
-> Cechy podzielności to zbiór zasad, dzięki którym możemy szybko sprawdzić przez jakie cyfry dzieli się jakaś duża liczba.
+Cechy podzielności to zbiór zasad, dzięki którym możemy szybko sprawdzić przez jakie cyfry dzieli się jakaś duża liczba.
 ### Cechy podzielności dla cyfr 1-10
 - 1 - Każda liczba dzieli się przez 1
 - 2 - Ostatnia cyfra liczby to 0, 2, 4, 6 lub 8
@@ -87,19 +87,21 @@ Zobacz, jak możemy sprawdzić przez jakie cyfry dzieli się liczba <ins>749</in
 10: 9 ≠ 0 // NIE PODZIELNA
 ```
 Nie trudno zauważyć, że tym sposobem jest to o wiele szybsze i mniej męczące, niż manualne dzielenie tej liczby 10 razy
-## Liczby ujemne, całkowite, naturalne, parzyste, nieparzyste i pierwsze
+## Kategoryzacja liczb
+W tym temacie poznasz trochę ważnych pojęć dotyczących różnych zbiorów liczb
+Używa sie ich, aby łatwiej mówić o grupach liczb oraz żeby utrudnić wymagające już zadanie w celu zniszczeniu uczniowi resztek pewności siebie
 ### Liczby parzyste
-> Liczby parzyste to liczby <ins>podzielne przez 2 bez reszty</ins> (np. 2, 8, 18, 150).
+Liczby parzyste to liczby <ins>podzielne przez 2 bez reszty</ins> (np. 2, 8, 18, 150).
 ### Liczby nieparzyste
-> Liczby nieparzyste to liczby które <ins>nie są parzyste</ins> (np. 1, 3, 9, 13, 149).
+Liczby nieparzyste to liczby które <ins>nie są parzyste</ins> (np. 1, 3, 9, 13, 149).
 ### Liczby ujemne
-> Liczby ujemne to liczby, które są <ins>mniejsze od 0</ins> i oznaczamy je wstawiając znak '-' przed daną wartością (np. -2, -17, -361238123)
+Liczby ujemne to liczby, które są <ins>mniejsze od 0</ins> i oznaczamy je wstawiając znak '-' przed daną wartością (np. -2, -17, -361238123)
 ### Liczby całkowite
-> Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [Ułamki](#REFRENCE), np. 1, -1, 2, -2, 3, -3).
+Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [Ułamki](#REFRENCE), np. 1, -1, 2, -2, 3, -3).
 ### Liczby naturalne
-> Liczby naturalne to <ins>liczby całkowite</ins>, które są <ins>większe od 0</ins> (np. 1, 2, 5, 17, 1024).
+Liczby naturalne to <ins>liczby całkowite</ins>, które są <ins>większe od 0</ins> (np. 1, 2, 5, 17, 1024).
 ### Liczby pierwsze
-> Liczby pierwsze to liczby, które są <ins>mają tylko 2 dzielniki</ins> (dzielą się przez 1 i samą siebie, np. 2, 3, 5, 7, 11, 17, 71).<br>
+Liczby pierwsze to liczby, które są <ins>mają tylko 2 dzielniki</ins> (dzielą się przez 1 i samą siebie, np. 2, 3, 5, 7, 11, 17, 71).<br>
 _**Uwaga:** liczby 1 i 2 <ins>nie należą do liczb pierwszych</ins> (0 nie dzieli się przez nic, a 1 dzieli się tylko przez 1)_
 ## Wyrażenia algebraiczne
 // TODO: Napisac ten artykul
