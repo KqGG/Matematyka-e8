@@ -97,7 +97,7 @@ Liczby nieparzyste to liczby które <ins>nie są parzyste</ins> (np. 1, 3, 9, 13
 ### Liczby ujemne
 Liczby ujemne to liczby, które są <ins>mniejsze od 0</ins> i oznaczamy je wstawiając znak '-' przed daną wartością (np. -2, -17, -361238123)
 ### Liczby całkowite
-Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [Ułamki](#REFRENCE), np. 1, -1, 2, -2, 3, -3).
+Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [ułamki](#REFRENCE), np. 1, -1, 2, -2, 3, -3).
 ### Liczby naturalne
 Liczby naturalne to <ins>liczby całkowite</ins>, które są <ins>większe od 0</ins> (np. 1, 2, 5, 17, 1024).
 ### Liczby pierwsze
@@ -109,4 +109,3 @@ _**Uwaga:** liczby 1 i 2 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 // TODO: Napisac ten artykul
 ## Ułamki
 // TODO: Napisac ten artykul
-# <a name="REFRENCE"></a>REFRENCE KTORE TRZEBA NAPRAWIC SKIEROWANE SA TUTAJ
