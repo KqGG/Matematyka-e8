@@ -143,7 +143,7 @@ Dwusieczna – odcinek, który dzieli kąt na pół.
 ### Trójkąt 45° 45° 90°
 Utworzyć taki trójkąt można za pomocą przekątnej w kwadracie. Podstawa tego trójkąta (znajduje się przy 2 kątach wynoszących 45°) ma długość <ins>**a√3**</ins> ramiona mają po <ins>**a**</ins> (jest to trójkąt równoramienny ponieważ ma 2 takie same kąty)
 ### Trójkąt 30° 60° 90°
-Wysokość - <ins>**a√3⁄2**</ins> podstawa <ins>**1/2a**</ins> przeciwprostokątna - <ins>**a**</ins>
+Wysokość - <ins>**a√3⁄2**</ins> podstawa - <ins>**1/2a**</ins> przeciwprostokątna - <ins>**a**</ins>
 ## Działania pisemne
 // TODO: Napisac ten artykul
 ## Średnia arytmetyczna
