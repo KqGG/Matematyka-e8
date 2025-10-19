@@ -55,7 +55,7 @@ Pamiętaj o tym podczas pracy z np. polami figur.
 ### Co oznaczają te skróty?
 > NWW to inaczej **Najmniejsza wspólna wielokrotność**
 > NWD to inaczej **Najmniejszy wspólny dzielnik**
-// TODO: Napisac ten artykul
+// TODO: Napisac ten artykul + Rozkladanie na czynniki pierwsze
 ## <a name="t-div"></a>Cechy podzielności liczb
 *Nie jest to temat potrzebny na egzamin, jednakże bardzo usprawnia prace*<br>
 _**Uwaga:** w tym temacie będziemy mówić tylko o [liczbach całkowitych](#REFRENCE)_
@@ -112,4 +112,20 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 ## Liczby rzymskie
 // TODO: Napisac ten artykul
 ## Potęgi i pierwiastki
+// TODO: Napisac ten artykul
+## Kolejność wykonywania działań
+// TODO: Napisac ten artykul
+## Geometria - Figury
+// TODO: Napisac ten artykul
+## Geometria - Obwody figur
+// TODO: Napisac ten artykul
+## Geometria - Pola figur
+// TODO: Napisac ten artykul
+## Geometria - Figury przestrzenne i ich objętość
+// TODO: Napisac ten artykul
+## Geometria - Trójkąty i twierdzenie pitagorasa
+// TODO: Napisac ten artykul
+## Działania pisemne
+// TODO: Napisac ten artykul
+## Średnia arytmetyczna
 // TODO: Napisac ten artykul
