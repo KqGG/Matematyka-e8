@@ -2,7 +2,7 @@
 Witaj,
 Ten dokument (Który nie jest jeszcze dokończony) zawiera zdecydowana wiekszość pojęć potrzebnych Ci, aby napisac **Egzamin Ósmoklasisty z Matematyki** na co najmniej <ins>90%</ins>.<br><br>
 Zakładamy, że <ins>**umiesz dodawać, odejmować, mnożyć i dzielić**</ins> na poziome co najmniej 4 klasy Szkoły Podstawowej.<br><br>
-Stanowczo odradzamy omijanie pojęć uznanych przez Ciebie za dobrze już rozumiane - wiele bardziej zaawansowanych kwestii umieściliśmy w prostych tematach, <ins>pamiętaj więdz o czytaniu całości</ins>.<br><br>
+Stanowczo odradzamy omijanie pojęć uznanych przez Ciebie za dobrze już rozumiane - wiele bardziej zaawansowanych kwestii umieściliśmy w prostych tematach, <ins>pamiętaj więc o czytaniu całości</ins>.<br><br>
 Nie zapominaj o zrobieniu <ins>kilku zadań do każdego zawartego tutaj tematu</ins> aby mieć pewność, że w pełni rozumiesz każdy z nich.<br><br>
 **Powodzenia!**
 # Index
@@ -30,9 +30,9 @@ Jednakże, inaczej wyglada to z jednostkami podniesonymi do kwadratu lub sześci
 Jak już się pewnie domyślasz, przy przeliczaniu podnosimy wartość do odpowiedniej potęgi i dopiero wtedy przeliczamy na jednostkę z innym przedrostkiem, zgodnie z przypisanym mnoznikiem.<br>
 Na przyklad:
 ```
-100cm² = 10 000cm = 100m² //bo 100² = 10 000, a 10 000 : 100 = 100
-20m² = 400m = 0,4km²
-6dm³ = 216dm = 21.6m³
+100cm² = 100cm * 1cm = 1m * 0,01m = 0,01m² //bo 100² = 10 000, a 10 000 : 100 = 100
+20m² = 0,002m * 0,0001m = 0,000002km²
+6dm³ = 0,6dm * 0,1dm * 0,1dm= 0,006dm³
 
 // dla porównania
 100cm = 1m
@@ -141,7 +141,7 @@ Wysokość – odcinek opuszczony z wierzchołka prostopadle na bok lub jego prz
 Środkowa – odcinek łączący wierzchołek z środkiem przeciwległego boku.<br>
 Dwusieczna – odcinek, który dzieli kąt na pół.
 ### Trójkąt 45° 45° 90°
-Utworzyć taki trójkąt można za pomocą przekątnej w kwadracie. Podstawa tego trójkąta (znajduje się przy 2 kątach wynoszących 45°) ma długość <ins>**a√3**</ins> ramiona mają po <ins>**a**</ins> (jest to trójkąt równoramienny ponieważ ma 2 takie same kąty)
+Utworzyć taki trójkąt można za pomocą przekątnej w kwadracie. Podstawa tego trójkąta (znajduje się przy 2 kątach wynoszących 45°) ma długość <ins>**a√2**</ins> ramiona mają po <ins>**a**</ins> (jest to trójkąt równoramienny ponieważ ma 2 takie same kąty)
 ### Trójkąt 30° 60° 90°
 Wysokość - <ins>**a√3⁄2**</ins> podstawa - <ins>**1/2a**</ins> przeciwprostokątna - <ins>**a**</ins>
 ## Działania pisemne
