@@ -88,19 +88,27 @@ Zobacz, jak możemy sprawdzić przez jakie cyfry dzieli się liczba <ins>749</in
 10: 9 ≠ 0 // NIE PODZIELNA
 ```
 Nie trudno zauważyć, że tym sposobem jest to o wiele szybsze i mniej męczące, niż manualne dzielenie tej liczby 10 razy
-## Kategoryzacja liczb
-W tym temacie poznasz trochę ważnych pojęć dotyczących różnych zbiorów liczb
-Używa sie ich, aby łatwiej mówić o grupach liczb oraz żeby utrudnić wymagające już zadanie w celu zniszczeniu uczniowi resztek pewności siebie
+## Kategoryzacja liczb według wartości (znaku)
+W tym temacie poznasz kilka ważnych pojęć dotyczących różnych zbiorów liczb
+Używa się ich, aby łatwiej mówić o grupach liczb oraz żeby utrudnić wymagające już zadanie w celu zniszczeniu uczniowi resztek pewności siebie
 ### Liczby całkowite
-Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [ułamki](#REFRENCE), np. 1, -1, 2, -2, 3, -3).
+Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [ułamki](#REFERENCE), np. 1, -1, 2, -2, 3, -3).
 ### Liczby naturalne
 Liczby naturalne to <ins>liczby całkowite</ins>, które są <ins>większe od 0</ins> (np. 1, 2, 5, 17, 1024).
+//ToDo liczby wymierne
+//ToDo liczby niewymierne
+//ToDo liczby rzeczywiste
+## Kategoryzacja liczb według rodzaju liczby
 ### Liczby parzyste
 Liczby parzyste to liczby całkowite, <ins>podzielne przez 2 bez reszty</ins> (np. 2, 8, 18, 150).
 ### Liczby nieparzyste
-Liczby nieparzyste to liczby całkowite, <ins>nie podzielne przez 2</ins> (np. 1, 3, 9, 13, 149).
+Liczby nieparzyste to liczby całkowite, <ins>niepodzielne przez 2</ins> (np. 1, 3, 9, 13, 149).
 ### Liczby ujemne
 Liczby ujemne to liczby, które są <ins>mniejsze od 0</ins> i oznaczamy je wstawiając znak '-' przed daną wartością (np. -2, -17, -361238123)
+### liczba 0
+liczba zero w matematyce nie jest uznawana ani za liczbę dodatnią, ani za liczbę ujemną, jest tak zwaną liczbą <ins>**liczbą neutralną**</ins>
+### liczby dodatnie
+Liczby dodatnie to liczby, które są <ins>większe od 0</ins> czyli leżą po prawej stronie od 0 na osi liczbowej, są to liczby bez żadnych znaków (3,7,96,148)
 ### Liczby pierwsze
 Liczby pierwsze to liczby, które są <ins>mają tylko 2 dzielniki</ins> (dzielą się przez 1 i samą siebie, np. 2, 3, 5, 7, 11, 17, 71).<br>
 _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzieli się przez nic, a 1 dzieli się tylko przez 1)_
@@ -123,7 +131,6 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 ## Geometria - Czworokąty
 // TODO: Napisac ten artykul
 ## Geometria - Trójkąty i twierdzenie pitagorasa
-// NOTE: Panie Wojtku, czy pan zdaje sobie sprawe ze dwusieczna to wlasnosc katow a nie trojkata?<br>
 // TODO: Dodac hyperlacza do innych artykulow (duzo ich tu ma byc)<br>
 // TODO: Dodac ladne obrazki
 ### Budowa trójkąta
