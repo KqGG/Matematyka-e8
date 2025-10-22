@@ -13,7 +13,7 @@ Nie zapominaj o zrobieniu <ins>kilku zadań do każdego zawartego tutaj tematu</
 # Lista Tematów
 ## <a name="t-jednostki"></a>Przeliczanie Jednostek
 ### Co to jest Jednostka?
-> **Jednostka oznacza standardową miarę wielkości fizycznej (np. metr, gram).**
+**Jednostka oznacza standardową miarę wielkości fizycznej (np. metr, gram).**
 ### Przedrostek - wyjaśnienie
 Przedrostków używasz w matematyce bardzo często i nawet możesz nie zdawać sobie z tego sprawy.<br>
 Jeśli mamy daną jednostke (np. metr) i potrzebujemy za pomocą niej pokazać jakąś bardzo małą lub bardzo dużą wartość, możemy wykorzystać do tego właśnie przedrostki.<br>
