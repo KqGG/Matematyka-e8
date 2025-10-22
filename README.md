@@ -127,13 +127,13 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 // TODO: Dodac hyperlacza do innych artykulow (duzo ich tu ma byc)<br>
 // TODO: Dodac ladne obrazki
 ### Budowa trójkąta
-// TODO: sformulowac normalne zdanie w ktorym wytlumaczone zostanie ze kazdy trojkat ma 1 podstawe i 2 ramiona bez robienia bledu powtorzeniowego
-Trójkąt to wielokąt, która ma <ins>**3 boki</ins>, <ins>3 kąty</ins> oraz <ins>3 wierzchołki**</ins>.
-Należy pamiętać, że nie ma znaczenia jak nazwiemy dany bok, jedynie w trójkącie równoramiennym dwa z nich (właśnie ramiona) są tej samej długości i mają takie same miary kątów.<br>
+// TODO: sformulowac normalne zdanie w ktorym wytlumaczone zostanie ze kazdy trojkat ma 1 podstawe i 2 ramiona bez robienia bledu powtorzeniowego<br><br>
+Trójkąt to wielokąt, która ma <ins>**3 boki</ins>, <ins>3 kąty</ins> oraz <ins>3 wierzchołki**</ins>.<br>
+Należy pamiętać, że nie ma znaczenia jak nazwiemy dany bok, jedynie w trójkącie równoramiennym dwa z nich (właśnie ramiona) są tej samej długości i mają takie same miary kątów.<br><br>
 Suma kątów w trójkącie zawsze wynosi <ins>180°</ins><br>
 Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaawansowanych zadaniach<br><br>
 **Wysokość trójkąta** (oznaczana literą *h*) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).<br>
-Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą parę wierzchołka i boku).<br>
+Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą parę wierzchołka i boku).
 ### Pole trójkąta
 Wzór na pole trójkąta to:  $\Large\frac{a  \cdot\ h}{2}$,<br>
 gdzie zmienna *h* to wysokość, a zmienna *a* to bok na który została opuszczona ta wysokość.
