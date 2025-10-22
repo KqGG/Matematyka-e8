@@ -132,7 +132,7 @@ Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaaw
 Wysokość trójkąta (oznaczana literą **h**) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).<br>
 Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą pare wierzchołek-bok).<br>
 **Pole trójkąta**<br>
-Wzór na pole trójkąta to:  $\Large\frac{a \(\cdot\) h}{2}$
+Wzór na pole trójkąta to:  $\Large\frac{a  \cdot\  h}{2}$
 ### Rodzaje trójkątów ze względu na boki
 Równoboczny - wszystkie boki są równe oraz każdy kąt ma 60°<br>
 Równoramienny - Dwa boki są równe oraz Dwa katy mają taką samą wartość w stopniach<br>
