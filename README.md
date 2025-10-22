@@ -115,19 +115,25 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 // TODO: Napisac ten artykul
 ## Kolejność wykonywania działań
 // TODO: Napisac ten artykul
-## Geometria - Figury
+## Geometria - Kąty
 // TODO: Napisac ten artykul
-## Geometria - Obwody figur
+## Geometria - Obwody
 // TODO: Napisac ten artykul
-## Geometria - Pola figur
-// TODO: Napisac ten artykul
-## Geometria - Figury przestrzenne i ich objętość
-// TODO: Napisac ten artykul
+## Geometria - Czworokąty
+
 ## Geometria - Trójkąty i twierdzenie pitagorasa
 ### Co to jest trójkąt
-Trójkąt to figura geometryczna która ma <ins>**3 boki 3 kąty oraz 3 wierzchołki**</ins>
-### suma kątów w trójkącie
-suma kątów w trójkącie wynosi <ins>**180°**</ins>
+Trójkąt to figura geometryczna, która ma <ins>**3 boki</ins>, <ins>3 kąty</ins> oraz <ins>3 wierzchołki**</ins>.
+### Ogólne informacje
+**Suma kątów w trójkącie zawsze wynosi <ins>180°</ins>**
+Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaawansowanych zadaniach
+//TODO: wstawic rysunek i dokonczyc artykul
+**Wysokość trójkąta**
+Wysokość trójkąta (oznaczana literą **h**) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).
+Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą pare wierzchołek-bok).
+**Pole trójkąta**
+Wzór na pole trójkąta to:
+$\Large\frac{n1}{d1}$
 ### Rodzaje trójkątów ze względu na boki
 Równoboczny - wszystkie boki są równe oraz każdy kąt ma 60°<br>
 Równoramienny - Dwa boki są równe oraz Dwa katy mają taką samą wartość w stopniach<br>
@@ -144,6 +150,8 @@ Dwusieczna – odcinek, który dzieli kąt na pół.
 Utworzyć taki trójkąt można za pomocą przekątnej w kwadracie. Podstawa tego trójkąta (znajduje się przy 2 kątach wynoszących 45°) ma długość <ins>**a√2**</ins> ramiona mają po <ins>**a**</ins> (jest to trójkąt równoramienny ponieważ ma 2 takie same kąty)
 ### Trójkąt 30° 60° 90°
 Wysokość - <ins>**a√3⁄2**</ins> podstawa - <ins>**1/2a**</ins> przeciwprostokątna - <ins>**a**</ins>
+## Geometria - Figury przestrzenne
+// TODO: Napisac ten artykul
 ## Działania pisemne
 // TODO: Napisac ten artykul
 ## Średnia arytmetyczna
