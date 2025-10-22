@@ -54,8 +54,8 @@ Pamiętaj o tym podczas pracy z np. polami figur.
 | M      | 1 000 000   | mega  |
 ## <a name="t-nww"></a>NWW i NWD
 ### Co oznaczają te skróty?
-> NWW to inaczej **Najmniejsza wspólna wielokrotność**
-> NWD to inaczej **Najmniejszy wspólny dzielnik**
+NWW to inaczej **Najmniejsza wspólna wielokrotność**<br>
+NWD to inaczej **Najmniejszy wspólny dzielnik**<br>
 // TODO: Napisac ten artykul + Rozkladanie na czynniki pierwsze
 ## <a name="t-div"></a>Cechy podzielności liczb
 *Nie jest to temat potrzebny na egzamin, jednakże bardzo usprawnia prace*<br>
@@ -123,8 +123,8 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 ## Geometria - Czworokąty
 // TODO: Napisac ten artykul
 ## Geometria - Trójkąty i twierdzenie pitagorasa
-// NOTE: Panie Wojtku, czy pan zdaje sobie sprawe ze dwusieczna to wlasnosc katow a nie trojkata?
-// TODO: Dodac hyperlacza do innych artykulow (duzo ich tu ma byc)
+// NOTE: Panie Wojtku, czy pan zdaje sobie sprawe ze dwusieczna to wlasnosc katow a nie trojkata?<br>
+// TODO: Dodac hyperlacza do innych artykulow (duzo ich tu ma byc)<br>
 // TODO: Dodac ladne obrazki
 ### Budowa trójkąta
 // TODO: sformulowac normalne zdanie w ktorym wytlumaczone zostanie ze kazdy trojkat ma 1 podstawe i 2 ramiona bez robienia bledu powtorzeniowego
