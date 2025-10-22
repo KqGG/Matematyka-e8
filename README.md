@@ -6,10 +6,11 @@ Stanowczo odradzamy omijanie pojęć uznanych przez Ciebie za dobrze już rozumi
 Nie zapominaj o zrobieniu <ins>kilku zadań do każdego zawartego tutaj tematu</ins> aby mieć pewność, że w pełni rozumiesz każdy z nich.<br><br>
 **Powodzenia!**
 # Index
+// TODO: wziac sie w garsc i wreszcie zrobic te hyperlacza dla innych tematow
 - [Przeliczanie jednostek](#t-jednostki)
 - [NWW i NWD](#t-nww)
 - [Cechy podzielności liczb](#t-div)
-# Tematy
+# Lista Tematów
 ## <a name="t-jednostki"></a>Przeliczanie Jednostek
 ### Co to jest Jednostka?
 > **Jednostka oznacza standardową miarę wielkości fizycznej (np. metr, gram).**
@@ -24,7 +25,7 @@ Na przykład:
 20 000 000t = 20 Mt (megaton)
 35 000dm (decymetrów) = 3 500 m (metrów) = 3,5 km (kilometra)
 ```
-### Jednostki podniesione do kwadratu / sześcianu
+### Jednostki podniesione do kwadratu lub sześcianu
 Przeliczanie jednostek jest bardzo monotonne i przewidywalne, zwłaszcza kiedy korzystamy z [Układu SI](#w-si).<br>
 Jednakże, inaczej wyglada to z jednostkami podniesonymi do kwadratu lub sześcianu (np. cm², m³).<br>
 Jak już się pewnie domyślasz, przy przeliczaniu podnosimy wartość do odpowiedniej potęgi i dopiero wtedy przeliczamy na jednostkę z innym przedrostkiem, zgodnie z przypisanym mnoznikiem.<br>
@@ -120,34 +121,34 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 ## Geometria - Obwody
 // TODO: Napisac ten artykul
 ## Geometria - Czworokąty
-
+// TODO: Napisac ten artykul
 ## Geometria - Trójkąty i twierdzenie pitagorasa
-### Co to jest trójkąt
-Trójkąt to figura geometryczna, która ma <ins>**3 boki</ins>, <ins>3 kąty</ins> oraz <ins>3 wierzchołki**</ins>.
-### Ogólne informacje
-**Suma kątów w trójkącie zawsze wynosi <ins>180°</ins>**<br>
-Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaawansowanych zadaniach<br>
-//TODO: wstawic rysunek i dokonczyc artykul<br>
-**Wysokość trójkąta**<br>
-Wysokość trójkąta (oznaczana literą **h**) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).<br>
-Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą pare wierzchołek-bok).<br>
-**Pole trójkąta**<br>
-Wzór na pole trójkąta to:  $\Large\frac{a  \cdot\  h}{2}$
-### Rodzaje trójkątów ze względu na boki
-Równoboczny - wszystkie boki są równe oraz każdy kąt ma 60°<br>
-Równoramienny - Dwa boki są równe oraz Dwa katy mają taką samą wartość w stopniach<br>
-Różnoboczny - Wszystkie boki są różne tak samo z kątami<br>
-### Rodzaje trójkątów ze względu na kąty
-Ostrokątny - Wszystkie kąty są mniejsze niż 90° np. 50°, 60°, 70°<br>
-Prostokątny - Ma jeden kąt 90° Dwa pozostałe razem dają 90°<br>
-Rozwartokątny - Ma jeden kąt większy niż 90° Dwa pozostałe są ostre<br>
-### Ważne pojęcia
-Wysokość – odcinek opuszczony z wierzchołka prostopadle na bok lub jego przedłużenie.<br>
-Środkowa – odcinek łączący wierzchołek z środkiem przeciwległego boku.<br>
-Dwusieczna – odcinek, który dzieli kąt na pół.
-### Trójkąt 45° 45° 90°
+// NOTE: Panie Wojtku, czy pan zdaje sobie sprawe ze dwusieczna to wlasnosc katow a nie trojkata?
+// TODO: Dodac hyperlacza do innych artykulow (duzo ich tu ma byc)
+// TODO: Dodac ladne obrazki
+### Budowa trójkąta
+// TODO: sformulowac normalne zdanie w ktorym wytlumaczone zostanie ze kazdy trojkat ma 1 podstawe i 2 ramiona bez robienia bledu powtorzeniowego
+Trójkąt to wielokąt, która ma <ins>**3 boki</ins>, <ins>3 kąty</ins> oraz <ins>3 wierzchołki**</ins>.
+Należy pamiętać, że nie ma znaczenia jak nazwiemy dany bok, jedynie w trójkącie równoramiennym dwa z nich (właśnie ramiona) są tej samej długości i mają takie same miary kątów.<br>
+Suma kątów w trójkącie zawsze wynosi <ins>180°</ins><br>
+Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaawansowanych zadaniach<br><br>
+**Wysokość trójkąta** (oznaczana literą *h*) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).<br>
+Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą parę wierzchołka i boku).<br>
+### Pole trójkąta
+Wzór na pole trójkąta to:  $\Large\frac{a  \cdot\ h}{2}$,<br>
+gdzie zmienna *h* to wysokość, a zmienna *a* to bok na który została opuszczona ta wysokość.
+### Podział trójkątów
+Podobnie do innych wielokątów, trójkąty także dzielą się na pewne grupy:<br>
+- Trójkąty równoboczne - Ich **boki są tej samej długości**, co oznacza ze wszystkie kąty mają miarę **60°**
+- Trójkąty równoramienne - Ich **boki są tej samej długości** oraz mają te same miary.
+- trójkąty ostrokątne - Każdy z jego kątów jest kątem ostrym
+- trójkąty prostokątne - Posiada **jeden kąt prosty**, funkcjonuje w nim twierdzenie pitagorasa
+- trójkąty rozwartokątne - Posiada **jeden kąt rozwarty**, a dwa pozostałe <ins>zawsze</ins> są ostre
+### Twierdzenie pitagorasa
+// TODO: napisac to wreszcie, jak ty mozesz pisac o twierdzeniu pitagorasa bez wyjasnienia co to w ogole jest
+### Trójkąt 45°, 45°, i 90°
 Utworzyć taki trójkąt można za pomocą przekątnej w kwadracie. Podstawa tego trójkąta (znajduje się przy 2 kątach wynoszących 45°) ma długość <ins>**a√2**</ins> ramiona mają po <ins>**a**</ins> (jest to trójkąt równoramienny ponieważ ma 2 takie same kąty)
-### Trójkąt 30° 60° 90°
+### Trójkąt 30°, 60° i 90°
 Wysokość - <ins>**a√3⁄2**</ins> podstawa - <ins>**1/2a**</ins> przeciwprostokątna - <ins>**a**</ins>
 ## Geometria - Figury przestrzenne
 // TODO: Napisac ten artykul
