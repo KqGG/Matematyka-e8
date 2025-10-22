@@ -95,9 +95,9 @@ Używa się ich, aby łatwiej mówić o grupach liczb oraz żeby utrudnić wymag
 Liczby całkowite to liczby, które <ins>nie są ułamkami</ins> (zob. [ułamki](#REFERENCE), np. 1, -1, 2, -2, 3, -3).
 ### Liczby naturalne
 Liczby naturalne to <ins>liczby całkowite</ins>, które są <ins>większe od 0</ins> (np. 1, 2, 5, 17, 1024).
-//ToDo liczby wymierne
-//ToDo liczby niewymierne
-//ToDo liczby rzeczywiste
+// ToDo: liczby wymierne
+// ToDo: liczby niewymierne
+// ToDo: liczby rzeczywiste
 ## Kategoryzacja liczb według rodzaju liczby
 ### Liczby parzyste
 Liczby parzyste to liczby całkowite, <ins>podzielne przez 2 bez reszty</ins> (np. 2, 8, 18, 150).
