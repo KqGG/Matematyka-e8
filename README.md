@@ -125,15 +125,14 @@ _**Uwaga:** liczby 0 i 1 <ins>nie należą do liczb pierwszych</ins> (0 nie dzie
 ### Co to jest trójkąt
 Trójkąt to figura geometryczna, która ma <ins>**3 boki</ins>, <ins>3 kąty</ins> oraz <ins>3 wierzchołki**</ins>.
 ### Ogólne informacje
-**Suma kątów w trójkącie zawsze wynosi <ins>180°</ins>**
-Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaawansowanych zadaniach
-//TODO: wstawic rysunek i dokonczyc artykul
-**Wysokość trójkąta**
-Wysokość trójkąta (oznaczana literą **h**) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).
-Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą pare wierzchołek-bok).
-**Pole trójkąta**
-Wzór na pole trójkąta to:
-$\Large\frac{n1}{d1}$
+**Suma kątów w trójkącie zawsze wynosi <ins>180°</ins>**<br>
+Możemy wykorzystać tę równość do znajdowania miary kątów w bardziej zaawansowanych zadaniach<br>
+//TODO: wstawic rysunek i dokonczyc artykul<br>
+**Wysokość trójkąta**<br>
+Wysokość trójkąta (oznaczana literą **h**) to odcinek łączący wierzchołek z przeciwległym bokiem pod kątem prostym (patrz rys.).<br>
+Każdy trójkąt ma <ins>3 wysokości</ins> (po jednej na każdą pare wierzchołek-bok).<br>
+**Pole trójkąta**<br>
+Wzór na pole trójkąta to:  $\Large\frac{a \(\cdot\) h}{2}$
 ### Rodzaje trójkątów ze względu na boki
 Równoboczny - wszystkie boki są równe oraz każdy kąt ma 60°<br>
 Równoramienny - Dwa boki są równe oraz Dwa katy mają taką samą wartość w stopniach<br>
